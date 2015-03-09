@@ -62,7 +62,7 @@ def dealer_makes_choice(scores, name, deck)
   if scores["player"] > scores[name] 
     player_choice = 'h'
   else 
-    player_choice = ['h','s'].sample #generate random choice 
+    player_choice = ['h','s'].sample 
   end
     if scores[name] < 17 
       player_choice = "h"
