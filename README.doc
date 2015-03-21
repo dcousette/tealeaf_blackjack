@@ -1,6 +1,15 @@
-This is a simple blackjack game. 
+## Updated 3-20-15
 
-*Please note* the most recent version of the program is: blackjack_2.rb 
+This simple blackjack game has been updated with an Object Oriented version. 
+
+The first iteration/attempt is: oo_blackjack.rb
+
+The most current version is: oo_blackjack_2.rb 
+
+
+
+
+########
 
 blackjack_1.rb - is my first iteration
 
